@@ -1,4 +1,4 @@
-![cover](./src/images/cover.png)
+![cover](https://raw.githubusercontent.com/jrbytes/jrbytes/master/src/images/cover.png)
 
 <div align='center'>
 
