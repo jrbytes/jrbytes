@@ -7,7 +7,7 @@
 [![javascript](https://img.shields.io/static/v1?label=JavaScript&message=language&color=yellow&logo=javascript)](https://github.com/jrbytes/advanced-javascript-concepts)
 [![react](https://img.shields.io/static/v1?label=React&message=tech&color=61dbfb&logo=react)](https://github.com/jrbytes/gostack-gobarber-web)
 [![react native](https://img.shields.io/static/v1?label=ReactNative&message=tech&color=61dbfb&logo=react)](https://github.com/jrbytes/gostack-gobarber-app)
-[![typescript](https://img.shields.io/static/v1?label=TypeScript&message=tech&color=007acc&logo=typescript)](https://github.com/jrbytes/gostack-gobarber-app)
+[![typescript](https://img.shields.io/static/v1?label=TypeScript&message=tech&color=007acc&logo=typescript)](https://github.com/microsoft/TypeScript)
 
 </div>
 
