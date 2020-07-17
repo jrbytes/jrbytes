@@ -19,6 +19,12 @@
 
 🖖🏼 Vida longa e próspera ou | or Live long and prosper. É uma frase dita pelo Vulcano Spock em Star Trek. Você verá isso muito por aí, enquanto visita meu GitHub. 😉
 
+<div align='center'>
+
+![cover](https://raw.githubusercontent.com/jrbytes/jrbytes/master/src/images/spock.gif)
+
+</div>
+
 📫 Pode entrar em contato comigo pelo e-mail ou insta @jrbytes será um prazer.
 
 🎓 Análise e Desenvolvimento de Sistemas - FAEL  
