@@ -2,6 +2,11 @@
 
 <div align='center'>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrbytes&theme=cobalt&hide_title=true&show_icons=true&hide_border=true&hide=contribs,prs&text_color=41efce&bg_color=303244&title_color=63697d&icon_color=d5d1ce)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrbytes&hide=TeX&layout=compact&theme=cobalt&hide_title=true&hide_border=true&&text_color=41efce&bg_color=303244&title_color=63697d)
+
 # Jr Bytes
 
 [![javascript](https://img.shields.io/static/v1?label=JavaScript&message=language&color=yellow&logo=javascript)](https://github.com/jrbytes/advanced-javascript-concepts)
