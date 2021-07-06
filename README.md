@@ -30,4 +30,4 @@
 
 🎓 Análise e Desenvolvimento de Sistemas - FAEL  
 👨🏻‍🚀 Rocketseat Bootcamp GoStack 11  
-🌎 [bytes.dev](https://bytes.dev)  
+🌎 [bytes.dev](https://jrbytes.dev)  
