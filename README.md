@@ -18,7 +18,7 @@
 
 👨🏻‍💻 A ficção científica para mim é a capacidade de sonhar e realizar. Muitas tecnologias antes de surgirem, foram protagonistas na literatura e nos meios audiovisuais.
 
-🖖🏼 Vida longa e próspera ou | or Live long and prosper. É uma frase dita pelo Vulcano Spock em Star Trek. Você verá isso muito por aí, enquanto visita meu GitHub. 😉
+🖖🏼 Live long and prosper. É uma frase dita pelo Vulcano Spock em Star Trek. Você verá isso muito por aí, enquanto visita meu GitHub. 😉
 
 <div align='center'>
 
