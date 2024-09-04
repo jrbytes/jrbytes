@@ -29,5 +29,6 @@
 📫 Pode entrar em contato comigo pelo e-mail ou insta @jrbytes será um prazer.
 
 🎓 Análise e Desenvolvimento de Sistemas - FAEL  
-👨🏻‍🚀 Rocketseat Bootcamp GoStack 11  
 🌎 [jrbytes.dev](https://jrbytes.dev)  
+
+![snake](https://raw.githubusercontent.com/jrbytes/jrbytes/master/src/images/github-contribution-grid-snake.svg)
